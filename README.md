@@ -36,6 +36,14 @@ This is a repository of all tutorials of [Geek Cast](https://geekcast.net) and [
 
 
 
+#### Chapter 2. Data Structures
+
+|         Part Name         |                   GitHub Doc                   |                    Project Files 📁                     |
+| :-----------------------: | :--------------------------------------------: | :----------------------------------------------------: |
+| Data Structures in Pandas | [Read](/pandas_basic/Chapter2.Data_Structures) | [Read](/pandas_basic/Chapter2.Data_Structures/project) |
+
+
+
 ## License
 
 Anyone may contribute to our project. Submit a pull request or raise an issue.
