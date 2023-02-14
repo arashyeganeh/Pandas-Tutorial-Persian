@@ -66,6 +66,25 @@
 |        -        | [مشاهده](/pandas_basic/Chapter2.Data_Structures#2-دیتافریم-dataframe) | دیتافریم `DataFrame` |
 |        -        | [مشاهده](/pandas_basic/Chapter2.Data_Structures#لیبل-label)  |     لیبل `Label`     |
 
+#### 3. وارد کردن اطلاعات
+
+|                       Project Files 📁                        |                          GitHub Doc                          |    دسته بندی مطالب     |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------: |
+|                              -                               |       [مشاهده](/pandas_basic/Chapter3.Data_Importing)        |   وارد کردن اطلاعات    |
+|                              -                               |  [مشاهده](/pandas_basic/Chapter3.Data_Importing#فایل-file)   |  دریافت داده از فایل   |
+| [مشاهده](/pandas_basic/Chapter3.Data_Importing/project/xml.py) |  [مشاهده](/pandas_basic/Chapter3.Data_Importing#1-فایل-xml)  |          XML           |
+| [مشاهده](/pandas_basic/Chapter3.Data_Importing/project/json.py) | [مشاهده](/pandas_basic/Chapter3.Data_Importing#2-فایل-json)  |          JSON          |
+| [مشاهده](/pandas_basic/Chapter3.Data_Importing/project/excel.py) | [مشاهده](/pandas_basic/Chapter3.Data_Importing#3-فایل-excel) |         Excel          |
+| [مشاهده](/pandas_basic/Chapter3.Data_Importing/project/csv.py) |  [مشاهده](/pandas_basic/Chapter3.Data_Importing#4-فایل-csv)  |          CSV           |
+| [مشاهده](/pandas_basic/Chapter3.Data_Importing/project/txt.py) |  [مشاهده](/pandas_basic/Chapter3.Data_Importing#5-فایل-txt)  |          TXT           |
+|                              -                               | [مشاهده](/pandas_basic/Chapter3.Data_Importing#وب-سرور-web-server) | دریافت داده از وب سرور |
+| [مشاهده](/pandas_basic/Chapter3.Data_Importing/project/rest/) | [مشاهده](/pandas_basic/Chapter3.Data_Importing#1-ارتباط-rest) |          REST          |
+| [مشاهده](/pandas_basic/Chapter3.Data_Importing/project/html/) | [مشاهده](/pandas_basic/Chapter3.Data_Importing#2-ساختار-html) |          HTML          |
+|                              -                               | [مشاهده](/pandas_basic/Chapter3.Data_Importing#دیتابیس-database) | دریافت داده از دیتابیس |
+| [مشاهده](/pandas_basic/Chapter3.Data_Importing/project/sqlite.py) | [مشاهده](/pandas_basic/Chapter3.Data_Importing#1-دیتابیس-sqlite) |         SQLite         |
+| [مشاهده](/pandas_basic/Chapter3.Data_Importing/project/mysql.py) | [مشاهده](/pandas_basic/Chapter3.Data_Importing#2-دیتابیس-mysql) |         MySQL          |
+| [مشاهده](/pandas_basic/Chapter3.Data_Importing/project/mongodb.py) |   [مشاهده](/pandas_basic/Chapter3.Data_Importing#mongodb)    |        MongoDB         |
+
 ## لایسنس
 
 با همکاری در توسعه این مخزن، در افزایش سطح دانش جامعه برنامه نویسان سهیم باشید.

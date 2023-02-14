@@ -1,0 +1,56 @@
+[
+  {
+    "Name": "Arash",
+    "Physic": 15,
+    "Chemistry": 16,
+    "Mathematic": 14
+  },
+  {
+    "Name": "Shahram",
+    "Physic": 15.25,
+    "Chemistry": 16,
+    "Mathematic": 10
+  },
+  {
+    "Name": "Omid",
+    "Physic": 18,
+    "Chemistry": 10,
+    "Mathematic": 15
+  },
+  {
+    "Name": "Morteza",
+    "Physic": 17,
+    "Chemistry": 9,
+    "Mathematic": 12
+  },
+  {
+    "Name": "Najme",
+    "Physic": 8,
+    "Chemistry": 15,
+    "Mathematic": 13
+  },
+  {
+    "Name": "Mahsa",
+    "Physic": 14,
+    "Chemistry": 19,
+    "Mathematic": 15.75
+  },
+  {
+    "Name": "Elham",
+    "Physic": 18,
+    "Chemistry": 16.25,
+    "Mathematic": 16
+  },
+  {
+    "Name": "Maryam",
+    "Physic": 17,
+    "Chemistry": 12.5,
+    "Mathematic": 19
+  },
+  {
+    "Name": "Sanam",
+    "Physic": 13,
+    "Chemistry": 19,
+    "Mathematic": 14
+  }
+]
