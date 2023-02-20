@@ -66,7 +66,7 @@
 |        -        | [مشاهده](/pandas_basic/Chapter2.Data_Structures#2-دیتافریم-dataframe) | دیتافریم `DataFrame` |
 |        -        | [مشاهده](/pandas_basic/Chapter2.Data_Structures#لیبل-label)  |     لیبل `Label`     |
 
-#### 3. وارد کردن اطلاعات
+#### فصل 3. وارد کردن اطلاعات
 
 |                       Project Files 📁                        |                          GitHub Doc                          |    دسته بندی مطالب     |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------: |
@@ -85,7 +85,7 @@
 | [مشاهده](/pandas_basic/Chapter3.Data_Importing/project/mysql.py) | [مشاهده](/pandas_basic/Chapter3.Data_Importing#2-دیتابیس-mysql) |         MySQL          |
 | [مشاهده](/pandas_basic/Chapter3.Data_Importing/project/mongodb.py) |   [مشاهده](/pandas_basic/Chapter3.Data_Importing#mongodb)    |        MongoDB         |
 
-#### 4. آمار
+#### فصل 4. آمار
 
 |                       Project Files 📁                        |                          GitHub Doc                          | دسته بندی مطالب |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------: |
