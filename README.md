@@ -85,6 +85,37 @@
 | [مشاهده](/pandas_basic/Chapter3.Data_Importing/project/mysql.py) | [مشاهده](/pandas_basic/Chapter3.Data_Importing#2-دیتابیس-mysql) |         MySQL          |
 | [مشاهده](/pandas_basic/Chapter3.Data_Importing/project/mongodb.py) |   [مشاهده](/pandas_basic/Chapter3.Data_Importing#mongodb)    |        MongoDB         |
 
+#### 4. آمار
+
+|                       Project Files 📁                        |                          GitHub Doc                          | دسته بندی مطالب |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------: |
+|                              -                               |         [مشاهده](/pandas_basic/Chapter4.Statistics)          |      آمار       |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/head.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-head)     |     head()      |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/tail.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-tail)     |     tail()      |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/info.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-info)     |     info()      |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/describe.py) |   [مشاهده](/pandas_basic/Chapter4.Statistics#متد-describe)   |   describe()    |
+|                              -                               | [مشاهده](/pandas_basic/Chapter4.Statistics#صدک-percentile-)  |   Percentile    |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/count.py) |    [مشاهده](/pandas_basic/Chapter4.Statistics#متد-count)     |     count()     |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/mean.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-mean)     |     mean()      |
+|  [مشاهده](/pandas_basic/Chapter4.Statistics/project/std.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-std)      |      std()      |
+|  [مشاهده](/pandas_basic/Chapter4.Statistics/project/min.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-min)      |      min()      |
+|  [مشاهده](/pandas_basic/Chapter4.Statistics/project/max.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-max)      |      max()      |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/memory_usage.py) | [مشاهده](/pandas_basic/Chapter4.Statistics#متد-memory_usage) | memory_usage()  |
+|  [مشاهده](/pandas_basic/Chapter4.Statistics/project/sum.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-sum)      |      sum()      |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/shape.py) |    [مشاهده](/pandas_basic/Chapter4.Statistics#متد-shape)     |     shape()     |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/value_counts.py) | [مشاهده](/pandas_basic/Chapter4.Statistics#متد-value_counts) | value_counts()  |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/size.py)  |   [مشاهده](/pandas_basic/Chapter4.Statistics#خصوصیت-size)    |      size       |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/columns.py) |   [مشاهده](/pandas_basic/Chapter4.Statistics#متد-columns)    |    columns()    |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/index.py) |    [مشاهده](/pandas_basic/Chapter4.Statistics#متد-index)     |     index()     |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/empty.py) |   [مشاهده](/pandas_basic/Chapter4.Statistics#خصوصیت-empty)   |      empty      |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/idxmax.py) |    [مشاهده](/pandas_basic/Chapter4.Statistics#متد-idxmax)    |    idxmax()     |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/idxmin.py) |    [مشاهده](/pandas_basic/Chapter4.Statistics#متد-idxmin)    |    idxmin()     |
+|  [مشاهده](/pandas_basic/Chapter4.Statistics/project/loc.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-loc)      |      loc()      |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/iloc.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-iloc)     |     iloc()      |
+|  [مشاهده](/pandas_basic/Chapter4.Statistics/project/at.py)   |      [مشاهده](/pandas_basic/Chapter4.Statistics#متد-at)      |      at()       |
+|  [مشاهده](/pandas_basic/Chapter4.Statistics/project/iat.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-iat)      |      iat()      |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/sort_values.py) | [مشاهده](/pandas_basic/Chapter4.Statistics#متد-sort_values)  |  sort_values()  |
+
 ## لایسنس
 
 با همکاری در توسعه این مخزن، در افزایش سطح دانش جامعه برنامه نویسان سهیم باشید.
