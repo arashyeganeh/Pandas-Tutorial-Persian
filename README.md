@@ -49,7 +49,7 @@
 
 ### فهرست
 
-#### فصل 1. معرفی Pandas
+#### فصل 1. معرفی `Introduction to Pandas`
 
 |                       Project Files 📁                        |                          GitHub Doc                          | دسته بندی مطالب  |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------: |
@@ -57,7 +57,7 @@
 |                              -                               | [مشاهده](/pandas_basic/Chapter1.Introduction_To_Pandas#نصب)  |       نصب        |
 | [مشاهده](/pandas_basic/Chapter1.Introduction_To_Pandas/project/students.py) | [مشاهده](/pandas_basic/Chapter1.Introduction_To_Pandas#پروژه-دست-گرمی-) | 🧪 پروژه دست گرمی |
 
-#### فصل 2. ساختارهای داده
+#### فصل 2. ساختارهای داده `Data structures`
 
 | Project Files 📁 |                          GitHub Doc                          |   دسته بندی مطالب    |
 | :-------------: | :----------------------------------------------------------: | :------------------: |
@@ -66,7 +66,7 @@
 |        -        | [مشاهده](/pandas_basic/Chapter2.Data_Structures#2-دیتافریم-dataframe) | دیتافریم `DataFrame` |
 |        -        | [مشاهده](/pandas_basic/Chapter2.Data_Structures#لیبل-label)  |     لیبل `Label`     |
 
-#### فصل 3. وارد کردن اطلاعات
+#### فصل 3. وارد کردن اطلاعات `Data Importing`
 
 |                       Project Files 📁                        |                          GitHub Doc                          |    دسته بندی مطالب     |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------: |
@@ -85,7 +85,7 @@
 | [مشاهده](/pandas_basic/Chapter3.Data_Importing/project/mysql.py) | [مشاهده](/pandas_basic/Chapter3.Data_Importing#2-دیتابیس-mysql) |         MySQL          |
 | [مشاهده](/pandas_basic/Chapter3.Data_Importing/project/mongodb.py) |   [مشاهده](/pandas_basic/Chapter3.Data_Importing#mongodb)    |        MongoDB         |
 
-#### فصل 4. آمار
+#### فصل 4. آمار `Statistics`
 
 |                       Project Files 📁                        |                          GitHub Doc                          | دسته بندی مطالب |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------: |
@@ -102,19 +102,32 @@
 |  [مشاهده](/pandas_basic/Chapter4.Statistics/project/max.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-max)      |      max()      |
 | [مشاهده](/pandas_basic/Chapter4.Statistics/project/memory_usage.py) | [مشاهده](/pandas_basic/Chapter4.Statistics#متد-memory_usage) | memory_usage()  |
 |  [مشاهده](/pandas_basic/Chapter4.Statistics/project/sum.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-sum)      |      sum()      |
-| [مشاهده](/pandas_basic/Chapter4.Statistics/project/shape.py) |    [مشاهده](/pandas_basic/Chapter4.Statistics#متد-shape)     |     shape()     |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/shape.py) |   [مشاهده](/pandas_basic/Chapter4.Statistics#خصوصیت-shape)   |      shape      |
 | [مشاهده](/pandas_basic/Chapter4.Statistics/project/value_counts.py) | [مشاهده](/pandas_basic/Chapter4.Statistics#متد-value_counts) | value_counts()  |
 | [مشاهده](/pandas_basic/Chapter4.Statistics/project/size.py)  |   [مشاهده](/pandas_basic/Chapter4.Statistics#خصوصیت-size)    |      size       |
-| [مشاهده](/pandas_basic/Chapter4.Statistics/project/columns.py) |   [مشاهده](/pandas_basic/Chapter4.Statistics#متد-columns)    |    columns()    |
-| [مشاهده](/pandas_basic/Chapter4.Statistics/project/index.py) |    [مشاهده](/pandas_basic/Chapter4.Statistics#متد-index)     |     index()     |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/columns.py) |  [مشاهده](/pandas_basic/Chapter4.Statistics#خصوصیت-columns)  |     columns     |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/index.py) |  [مشاهده](/pandas_basic/Chapter4.Statistics#خصوصیت--index)   |      index      |
 | [مشاهده](/pandas_basic/Chapter4.Statistics/project/empty.py) |   [مشاهده](/pandas_basic/Chapter4.Statistics#خصوصیت-empty)   |      empty      |
 | [مشاهده](/pandas_basic/Chapter4.Statistics/project/idxmax.py) |    [مشاهده](/pandas_basic/Chapter4.Statistics#متد-idxmax)    |    idxmax()     |
 | [مشاهده](/pandas_basic/Chapter4.Statistics/project/idxmin.py) |    [مشاهده](/pandas_basic/Chapter4.Statistics#متد-idxmin)    |    idxmin()     |
-|  [مشاهده](/pandas_basic/Chapter4.Statistics/project/loc.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-loc)      |      loc()      |
-| [مشاهده](/pandas_basic/Chapter4.Statistics/project/iloc.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-iloc)     |     iloc()      |
-|  [مشاهده](/pandas_basic/Chapter4.Statistics/project/at.py)   |      [مشاهده](/pandas_basic/Chapter4.Statistics#متد-at)      |      at()       |
-|  [مشاهده](/pandas_basic/Chapter4.Statistics/project/iat.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-iat)      |      iat()      |
+|  [مشاهده](/pandas_basic/Chapter4.Statistics/project/loc.py)  |    [مشاهده](/pandas_basic/Chapter4.Statistics#خصوصیت-loc)    |       loc       |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/iloc.py)  |   [مشاهده](/pandas_basic/Chapter4.Statistics#خصوصیت-iloc)    |      iloc       |
+|  [مشاهده](/pandas_basic/Chapter4.Statistics/project/at.py)   |    [مشاهده](/pandas_basic/Chapter4.Statistics#خصوصیت--at)    |       at        |
+|  [مشاهده](/pandas_basic/Chapter4.Statistics/project/iat.py)  |   [مشاهده](/pandas_basic/Chapter4.Statistics#خصوصیت--iat)    |       iat       |
 | [مشاهده](/pandas_basic/Chapter4.Statistics/project/sort_values.py) | [مشاهده](/pandas_basic/Chapter4.Statistics#متد-sort_values)  |  sort_values()  |
+
+#### فصل 5. پاکسازی داده `Data Cleaning`
+
+|                       Project Files 📁                        |                          GitHub Doc                          |       دسته بندی مطالب        |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------: |
+|                              -                               |        [مشاهده](/pandas_basic/Chapter5.Data_Cleaning)        |         پاکسازی داده         |
+|                              -                               | [مشاهده](/pandas_basic/Chapter5.Data_Cleaning#ناهنجاری-داده-data-anomaly) | ناهنجاری داده `Data Anomaly` |
+| [مشاهده](/pandas_basic/Chapter5.Data_Cleaning/project/dropna.py) |  [مشاهده](/pandas_basic/Chapter5.Data_Cleaning#متد-dropna)   |           dropna()           |
+| [مشاهده](/pandas_basic/Chapter5.Data_Cleaning/project/fillna.py) |  [مشاهده](/pandas_basic/Chapter5.Data_Cleaning#متد-fillna)   |           fillna()           |
+|                              -                               | [مشاهده](/pandas_basic/Chapter5.Data_Cleaning#متد-backfill)  |          backfill()          |
+|                              -                               |   [مشاهده](/pandas_basic/Chapter5.Data_Cleaning#متد-bfill)   |           bfill()            |
+|                              -                               |    [مشاهده](/pandas_basic/Chapter5.Data_Cleaning#متد-pad)    |            pad()             |
+|                              -                               |   [مشاهده](/pandas_basic/Chapter5.Data_Cleaning#متد-ffill)   |           ffill()            |
 
 ## لایسنس
 
