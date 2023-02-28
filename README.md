@@ -129,6 +129,14 @@
 |                              -                               |    [مشاهده](/pandas_basic/Chapter5.Data_Cleaning#متد-pad)    |            pad()             |
 |                              -                               |   [مشاهده](/pandas_basic/Chapter5.Data_Cleaning#متد-ffill)   |           ffill()            |
 
+#### فصل 6. تغییرات داده `Data Manipulation`
+
+|                       Project Files 📁                        |                          GitHub Doc                          | دسته بندی مطالب |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------: |
+|                              -                               |      [مشاهده](/pandas_basic/Chapter6.Data_Manipulation)      |  تغییرات داده   |
+| [مشاهده](/pandas_basic/Chapter6.Data_Manipulation/project/astype.py) | [مشاهده](/pandas_basic/Chapter6.Data_Manipulation#متد-astype) |    astype()     |
+| [مشاهده](/pandas_basic/Chapter6.Data_Manipulation/project/groupby.py) | [مشاهده](/pandas_basic/Chapter6.Data_Manipulation#متد-groupby) |    groupby()    |
+
 ## لایسنس
 
 با همکاری در توسعه این مخزن، در افزایش سطح دانش جامعه برنامه نویسان سهیم باشید.
