@@ -9,6 +9,12 @@
 
 ### 1. سری `Series`
 
+```python
+Series(data=None, index=None, dtype=None, name=None, copy=False, fastpath=False)
+```
+
+
+
 ![](img/series_sch.png)
 
 به توالی داده ها به صورت **1 بعدی**، Series گفته می شود.
@@ -144,6 +150,10 @@ print(series)
 > 💡 به ستون اول لیبل `label` گفته می شود.
 
 ### 2. دیتافریم `DataFrame`
+
+```python
+DataFrame(data=None, index=None, columns=None, dtype=None, copy=None)
+```
 
 ![](img/dataframe_sch.png)
 

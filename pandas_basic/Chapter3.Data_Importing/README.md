@@ -86,6 +86,12 @@
 
 متد `()read_xml` وظیفه تبدیل فایل xml به data frame دارد.
 
+```python
+read_xml(path_or_buffer, *, xpath='./*', namespaces=None, elems_only=False, attrs_only=False, names=None, dtype=None, converters=None, parse_dates=None, encoding='utf-8', parser='lxml', stylesheet=None, iterparse=None, compression='infer', storage_options=None)
+```
+
+
+
 > 💡 دقت کنید، برای استفاده از متد `()read_xml` نیاز به نصب کتابخانه `lxml` دارید.
 >
 > ```bash
@@ -178,6 +184,12 @@ except Exception as err:
 متد `()read_json ` وظیفه تبدیل فایل json به data frame دارد.
 
 ```python
+read_json(path_or_buf, *, orient=None, typ='frame', dtype=None, convert_axes=None, convert_dates=True, keep_default_dates=True, numpy=False, precise_float=False, date_unit=None, encoding=None, encoding_errors='strict', lines=False, chunksize=None, compression='infer', nrows=None, storage_options=None)
+```
+
+
+
+```python
 import pandas as pd
 
 try:
@@ -203,6 +215,12 @@ except Exception as err:
 > ```
 
 متد `()read_excel ` وظیفه تبدیل فایل excel به data frame دارد.
+
+```python
+read_excel(io, sheet_name=0, *, header=0, names=None, index_col=None, usecols=None, squeeze=None, dtype=None, engine=None, converters=None, true_values=None, false_values=None, skiprows=None, nrows=None, na_values=None, keep_default_na=True, na_filter=True, verbose=False, parse_dates=False, date_parser=None, thousands=None, decimal='.', comment=None, skipfooter=0, convert_float=None, mangle_dupe_cols=True, storage_options=None)
+```
+
+
 
 ```python
 import pandas as pd
@@ -239,6 +257,12 @@ Sanam,13,19,14
 ```
 
 متد `()read_csv ` وظیفه تبدیل فایل csv به data frame دارد.
+
+```python
+read_csv(filepath_or_buffer, *, sep=_NoDefault.no_default, delimiter=None, header='infer', names=_NoDefault.no_default, index_col=None, usecols=None, squeeze=None, prefix=_NoDefault.no_default, mangle_dupe_cols=True, dtype=None, engine=None, converters=None, true_values=None, false_values=None, skipinitialspace=False, skiprows=None, skipfooter=0, nrows=None, na_values=None, keep_default_na=True, na_filter=True, verbose=False, skip_blank_lines=True, parse_dates=None, infer_datetime_format=False, keep_date_col=False, date_parser=None, dayfirst=False, cache_dates=True, iterator=False, chunksize=None, compression='infer', thousands=None, decimal='.', lineterminator=None, quotechar='"', quoting=0, doublequote=True, escapechar=None, comment=None, encoding=None, encoding_errors='strict', dialect=None, error_bad_lines=None, warn_bad_lines=None, on_bad_lines=None, delim_whitespace=False, low_memory=True, memory_map=False, float_precision=None, storage_options=None)
+```
+
+
 
 ```python
 import pandas as pd
@@ -292,6 +316,12 @@ Sanam 13 19 14
 متد `()read_table ` وظیفه تبدیل فایل txt به data frame دارد.
 
 ```python
+read_table(filepath_or_buffer, *, sep=_NoDefault.no_default, delimiter=None, header='infer', names=_NoDefault.no_default, index_col=None, usecols=None, squeeze=None, prefix=_NoDefault.no_default, mangle_dupe_cols=True, dtype=None, engine=None, converters=None, true_values=None, false_values=None, skipinitialspace=False, skiprows=None, skipfooter=0, nrows=None, na_values=None, keep_default_na=True, na_filter=True, verbose=False, skip_blank_lines=True, parse_dates=False, infer_datetime_format=False, keep_date_col=False, date_parser=None, dayfirst=False, cache_dates=True, iterator=False, chunksize=None, compression='infer', thousands=None, decimal='.', lineterminator=None, quotechar='"', quoting=0, doublequote=True, escapechar=None, comment=None, encoding=None, encoding_errors='strict', dialect=None, error_bad_lines=None, warn_bad_lines=None, on_bad_lines=None, delim_whitespace=False, low_memory=True, memory_map=False, float_precision=None, storage_options=None)
+```
+
+
+
+```python
 import pandas as pd
 
 try:
@@ -334,6 +364,12 @@ except Exception as err:
 ![](img/rest_server_terminal.PNG)
 
 سرور روی پورت `3000` فعال می باشد.
+
+```python
+read_json(path_or_buf, *, orient=None, typ='frame', dtype=None, convert_axes=None, convert_dates=True, keep_default_dates=True, numpy=False, precise_float=False, date_unit=None, encoding=None, encoding_errors='strict', lines=False, chunksize=None, compression='infer', nrows=None, storage_options=None)
+```
+
+
 
 ```python
 import requests
@@ -453,6 +489,12 @@ except Exception as err:
 
 متد read_html وظیفه تبدیل فایل csv به data frame دارد.
 
+```python
+read_html(io, *, match='.+', flavor=None, header=None, index_col=None, skiprows=None, attrs=None, parse_dates=False, thousands=',', encoding=None, decimal='.', converters=None, na_values=None, keep_default_na=True, displayed_only=True, extract_links=None)
+```
+
+
+
 > 💡 دقت کنید، این متد تمام جدول های موجود در فایل html به صورت یک لیست برگشت می دهد.
 
 ![](img/html.PNG)
@@ -519,6 +561,12 @@ except Exception as err:
 این دیتابیس کم حجم و پورتابل بوده که بیشتر در اپلیکیشن های اندروید استفاده می شود.
 
 برای اتصال از کتابخانه `sqlite3` استفاده می کنیم.
+
+```python
+read_sql(sql, con, index_col=None, coerce_float=True, params=None, parse_dates=None, columns=None, chunksize=None)
+```
+
+
 
 ```python
 import sqlite3
