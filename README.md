@@ -99,7 +99,7 @@
 | [مشاهده](/pandas_basic/Chapter4.Statistics/project/mean.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-mean)     |     mean()      |
 |  [مشاهده](/pandas_basic/Chapter4.Statistics/project/std.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-std)      |      std()      |
 |  [مشاهده](/pandas_basic/Chapter4.Statistics/project/min.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-min)      |      min()      |
-| [مشاهده](/pandas_basic/Chapter4.Statistics/project/median.py) |   [مشاهده](/pandas_basic/Chapter4.Statistics#متد-median-)    |    median()     |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/median.py) |    [مشاهده](/pandas_basic/Chapter4.Statistics#متد-median)    |    median()     |
 |  [مشاهده](/pandas_basic/Chapter4.Statistics/project/max.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-max)      |      max()      |
 | [مشاهده](/pandas_basic/Chapter4.Statistics/project/memory_usage.py) | [مشاهده](/pandas_basic/Chapter4.Statistics#متد-memory_usage) | memory_usage()  |
 |  [مشاهده](/pandas_basic/Chapter4.Statistics/project/sum.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-sum)      |      sum()      |
