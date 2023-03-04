@@ -99,6 +99,7 @@
 | [مشاهده](/pandas_basic/Chapter4.Statistics/project/mean.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-mean)     |     mean()      |
 |  [مشاهده](/pandas_basic/Chapter4.Statistics/project/std.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-std)      |      std()      |
 |  [مشاهده](/pandas_basic/Chapter4.Statistics/project/min.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-min)      |      min()      |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/median.py) |   [مشاهده](/pandas_basic/Chapter4.Statistics#متد-median-)    |    median()     |
 |  [مشاهده](/pandas_basic/Chapter4.Statistics/project/max.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-max)      |      max()      |
 | [مشاهده](/pandas_basic/Chapter4.Statistics/project/memory_usage.py) | [مشاهده](/pandas_basic/Chapter4.Statistics#متد-memory_usage) | memory_usage()  |
 |  [مشاهده](/pandas_basic/Chapter4.Statistics/project/sum.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-sum)      |      sum()      |
@@ -115,6 +116,10 @@
 |  [مشاهده](/pandas_basic/Chapter4.Statistics/project/at.py)   |    [مشاهده](/pandas_basic/Chapter4.Statistics#خصوصیت--at)    |       at        |
 |  [مشاهده](/pandas_basic/Chapter4.Statistics/project/iat.py)  |   [مشاهده](/pandas_basic/Chapter4.Statistics#خصوصیت--iat)    |       iat       |
 | [مشاهده](/pandas_basic/Chapter4.Statistics/project/sort_values.py) | [مشاهده](/pandas_basic/Chapter4.Statistics#متد-sort_values)  |  sort_values()  |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/isnull.py) |    [مشاهده](/pandas_basic/Chapter4.Statistics#متد-isnull)    |    isnull()     |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/notnull.py) |   [مشاهده](/pandas_basic/Chapter4.Statistics#متد-notnull)    |    notnull()    |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/isna.py)  |     [مشاهده](/pandas_basic/Chapter4.Statistics#متد-isna)     |     isna()      |
+| [مشاهده](/pandas_basic/Chapter4.Statistics/project/notna.py) |    [مشاهده](/pandas_basic/Chapter4.Statistics#متد-notna)     |     notna()     |
 
 #### فصل 5. پاکسازی داده `Data Cleaning`
 

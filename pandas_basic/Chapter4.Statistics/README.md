@@ -263,6 +263,45 @@ except Exception as err:
 
 📁 [مشاهده پروژه](project/min.py)
 
+## متد `()median `
+
+```python
+median(axis=_NoDefault.no_default, skipna=True, level=None, numeric_only=None, **kwargs)
+```
+
+مقدار میانه برای هر ستون محاسبه می کند.
+
+### میانه `median` چیست؟
+
+به مقدار وسط ( صرفا براساس موقعیت ) در دسته ای از اعداد مرتب شده، میانه گفته می شود.
+
+> 💡 دقت کنید، میانگین مقدار وسط از حاصل جمع کل مجموعه می باشد ولی میانه صرفا بیانگر مقدار عددی است که در وسط مجموعه ( صرفا موقعیت ) می باشد.
+
+### روش محاسبه میانه `median`
+
+برای محاسبه میانه دسته {10,3,12,16,5} به ترتیب مراحل ذیل را انجام دهید:
+
+* اعداد به ترتیب از کوچکتر به بزرگتر مرتب کنید.
+
+  {3,5,10,12,16}
+
+* به موقعیت عدد وسط مجموعه میانه گفته می شود. میانه این مجموعه عدد 10 می باشد.
+
+```python
+import pandas as pd
+
+try:
+    df = pd.read_csv('dataset.csv')
+    print(df.median())
+
+except Exception as err:
+    print(err)
+```
+
+![](img/median.PNG)
+
+📁 [مشاهده پروژه](project/median.py)
+
 ## متد `()max`
 
 ```python
@@ -710,3 +749,95 @@ except Exception as err:
 ![](img/sort_values.PNG)
 
 📁 [مشاهده پروژه](project/sort_values.py)
+
+## متد `()isnull`
+
+```python
+isnull(obj)
+```
+
+در صورتیکه هر `Entry` برابر `missing-value` باشد مقدار `True` برگشت می دهد.
+
+> 💡 این متد معادل متد `()isna` می باشد.
+
+```python
+import pandas as pd
+
+try:
+    df = pd.read_csv('dataset.csv')
+    print(df.isnull())
+
+except Exception as err:
+    print(err)
+```
+
+![](img/isnull.PNG)
+
+📁 [مشاهده پروژه](project/isnull.py)
+
+## متد `()notnull`
+
+```python
+notnull(obj)
+```
+
+در صورتیکه هر `Entry` برابر `missing-value` **نباشد** مقدار `True` برگشت می دهد. دقیقا مخالف متد `()isnull` عمل می کند.
+
+> 💡 این متد معادل متد `()notna` می باشد.
+
+```python
+import pandas as pd
+
+try:
+    df = pd.read_csv('dataset.csv')
+    print(df.notnull())
+
+except Exception as err:
+    print(err)
+```
+
+![](img/notnull.PNG)
+
+📁 [مشاهده پروژه](project/notnull.py)
+
+## متد `()isna`
+
+در صورتیکه هر `Entry` برابر `missing-value` باشد مقدار `True` برگشت می دهد.
+
+> 💡 این متد معادل متد `()isnull` می باشد.
+
+```python
+import pandas as pd
+
+try:
+    df = pd.read_csv('dataset.csv')
+    print(df.isna())
+
+except Exception as err:
+    print(err)
+```
+
+![](img/isna.PNG)
+
+📁 [مشاهده پروژه](project/isna.py)
+
+## متد `()notna`
+
+در صورتیکه هر `Entry` برابر `missing-value` **نباشد** مقدار `True` برگشت می دهد. دقیقا مخالف متد `()isna` عمل می کند.
+
+> 💡 این متد معادل متد `()notnull` می باشد.
+
+```python
+import pandas as pd
+
+try:
+    df = pd.read_csv('dataset.csv')
+    print(df.notna())
+
+except Exception as err:
+    print(err)
+```
+
+![](img/notna.PNG)
+
+📁 [مشاهده پروژه](project/notna.py)
